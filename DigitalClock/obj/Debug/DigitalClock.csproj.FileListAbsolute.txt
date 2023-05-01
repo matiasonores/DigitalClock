@@ -1,0 +1,10 @@
+C:\Users\Topito\Documents\Proyectos\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+C:\Users\Topito\Documents\Proyectos\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+C:\Users\Topito\Documents\Proyectos\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+C:\Users\Topito\Documents\Proyectos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.AssemblyReference.cache
+C:\Users\Topito\Documents\Proyectos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.DigitalClock.resources
+C:\Users\Topito\Documents\Proyectos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+C:\Users\Topito\Documents\Proyectos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.cache
+C:\Users\Topito\Documents\Proyectos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.CoreCompileInputs.cache
+C:\Users\Topito\Documents\Proyectos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+C:\Users\Topito\Documents\Proyectos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
